@@ -1,0 +1,19 @@
+#box {
+    height: 100px;
+    background-color: olivedrab;
+}
+
+#box_label {
+    height: 100px;
+    background-color: yellow;
+}
+
+#box_card {
+
+    height: 250px;
+    width: 200px;
+
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+}
